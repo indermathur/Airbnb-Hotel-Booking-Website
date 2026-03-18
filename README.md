@@ -45,7 +45,7 @@ MongoDB (Mongoose)
 Follow these steps to run the project locally 👇
 
 1️⃣ Clone / Download the Project
-git clone <your-repo-url>
+git clone repo
 
 OR download ZIP and:
 
@@ -55,7 +55,7 @@ OR download ZIP and:
 
 Go to the backend folder
 
-Create a .env file
+Add your credential in .env file
 
 Add your credentials like:
 
@@ -97,8 +97,5 @@ Run frontend and backend both simultaneously
 
 🙌 Author
 
-Made with ❤️ by Inder
+Made with ❤️ by Inder Mathur
 
-⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
